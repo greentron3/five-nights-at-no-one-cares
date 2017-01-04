@@ -6,10 +6,10 @@
 
 * PPAP
 
-* Xenomorph (i don't know M8)
+* Xenomorph 
 
 * DANK MLG NOSCOPER
 
-* Stupid soup
+* killer keemstar
 
 * GOLDEN DANALD (ya betta watch out)
