@@ -2,7 +2,7 @@ title: Five-nights-at-no-one-cares
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
