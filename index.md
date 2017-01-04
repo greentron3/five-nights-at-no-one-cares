@@ -1,4 +1,4 @@
-#Five Night's at NO ONE CARES
+#Five Night's at ABSOLUTE RANDOMNESS
 
 ####By: **Behruze Hanachi**
 
@@ -12,4 +12,4 @@
 
 * Stupid soup
 
-* GOLDEN SANTA (ya betta watch out)
+* GOLDEN DANALD (ya betta watch out)
